@@ -1,0 +1,7 @@
+WebApp/
+├── WEB-INF/
+│   ├── web.xml        (Deployment descriptor)
+│   └── classes/       (compiled Java classes)
+└── index.jsp         (Form for GET request)
+└── submitForm.jsp    (Form for POST request)
+└── SubmitServlet.java (Servlet to handle GET and POST)

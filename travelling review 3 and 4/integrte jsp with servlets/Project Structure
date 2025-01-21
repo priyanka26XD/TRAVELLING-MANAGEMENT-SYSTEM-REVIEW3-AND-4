@@ -1,0 +1,8 @@
+WebApp/
+├── WEB-INF/
+│   ├── web.xml            (Deployment descriptor)
+│   └── classes/           (compiled Java classes)
+├── register.jsp           (Registration form page)
+├── profile.jsp            (User profile page)
+└── RegisterServlet.java   (Servlet to handle registration)
+└── ProfileServlet.java    (Servlet to display user profile)
